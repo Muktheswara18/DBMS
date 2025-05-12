@@ -71,10 +71,8 @@ Each table includes timestamps and primary/foreign key relationships to enforce 
 - `project_report.docx` – Detailed documentation (this file)
 
 ---
-
-## 📸 Screenshots / ER Diagram
-
-*(Optional: Add ER diagram or schema screenshots if available)*
+##ER-diagram
+📌 [Click to view ER Diagram](er_diagram.pdf)
 
 ---
 
